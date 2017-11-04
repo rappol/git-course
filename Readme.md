@@ -13,3 +13,5 @@ git commit -am "message"
 git checkout
 git reset
 git push
+
+git config --global alias.s status
