@@ -7,6 +7,7 @@ Comandos basicos:
 git status
 git log
 git add <file>
+git diff
 git commit -m "message"
 git commit -am "message"
 git checkout
